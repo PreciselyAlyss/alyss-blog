@@ -22,6 +22,7 @@ github_repo: alyss-blog # the GitHub repo name for your project
 github_username: PreciselyAlyss
 social_link: twitter
 social_username: PreciselyAlyss
+github: metadata
 
 # Build settings
 markdown: kramdown
