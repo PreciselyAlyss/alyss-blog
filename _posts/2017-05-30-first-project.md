@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Built a static blog site"
-date:   2017-05-30 18:55:32 -0500
+date:   2017-05-30 18:06:32 -0500
 categories: projects
 ---
 Late one night, possibly after too much cider, I bought okalyss.com. I've started giving technical meetup talks and the CFP submissions kept asking for a website URL. I felt lacking that I didn't have one, but I definitely knew of things to write about and how to deploy a blog. So I decided to put a custom blog built with Jekyll (a static site generator) on my new domain.
