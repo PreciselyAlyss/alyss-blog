@@ -17,7 +17,7 @@ title: OK Alyss
 email: alyss@okalyss.com
 description: > # this means to ignore newlines until "baseurl:"
   Alyss Noland's developer project blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://okalyss.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: alyss-blog # the GitHub repo name for your project
 github_username: PreciselyAlyss
 social_link: twitter
