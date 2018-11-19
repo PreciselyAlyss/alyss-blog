@@ -72,13 +72,13 @@ Processing the information above is going to take a while and you shouldn't expe
 
 CeraVe's Hydrating Facial Cleanser is my go-to as someone with dry skin. It has a pH of 5.5. You can find it at CVS, Walgreens, or online on Amazon ([affiliate link](https://amzn.to/2Q5xwqQ)).
 
-![green-cerave](/assets/green-cerave.jpg)
+![green-cerave]({{ site.url }}/assets/green-cerave.jpg)
 
 #### Oily skin
 
 CeraVe's Foaming Facial Cleanser is what my significant other uses for his more oily skin. It has a pH of 5.5. You can find it in CVS, Target, Walgreens, and online from Amazon ([affiliate link](https://amzn.to/2qSzSLk)).
 
-![blue-cerave](/assets/blue-cerave.jpg)
+![blue-cerave]({{ site.url }}/assets/blue-cerave.jpg)
 
 #### Normal & Combination skin
 
@@ -86,7 +86,7 @@ Either of the above products could work for you. Another common recommendation I
 
 You won't be able to find it as easily in U.S. shops, but you can find it online without issue ([affiliate link](https://amzn.to/2FHXUTN) for Amazon). It slightly cheaper for flat dollar cost, but not per ounce/milliliter. This particular cleanser falls into the gel cleanser category.
 
-![corsx](/assets/corsx.jpg)
+![corsx]({{ site.url }}/assets/corsx.jpg)
 
 
 
